@@ -1,0 +1,41 @@
+.main {
+    width: 1600px;
+    height: 2350px;
+    background-color: aqua;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo{
+    margin-left: 215px;
+    margin-top: 24px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+}
+
+.blue-text{
+    color: #2196F3;
+}
+
+.pages{
+    margin-left: 92px;
+    display: flex;
+    justify-content: space-between;
+    width: 294px;
+}
+
+.header-text{
+    height: 16px;
+    margin-top: 32px;
+}
+
+.infodevstudio{
+    height: 16px;
+    margin-top: 32px;
+    margin-left: 330px;
+}
